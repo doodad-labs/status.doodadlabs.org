@@ -5,8 +5,6 @@ repo: uptime-monitor
 sites:
   - name: Main Site
     url: https://doodadlabs.org
-  - name: Threat Intelligence
-    url: https://threat.doodadlabs.org/health
 assignees:
   - NotReeceHarris
 status-website:
