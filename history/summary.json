@@ -4,9 +4,9 @@
     "url": "https://doodadlabs.org",
     "icon": "https://icons.duckduckgo.com/ip3/doodadlabs.org.ico",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,42 +15,48 @@
     "timeWeek": 2172,
     "timeMonth": 964,
     "timeYear": 517,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-04": 0
+    }
   },
   {
     "name": "Authentication Service",
     "url": "https://auth.doodadlabs.org/health",
     "icon": "https://icons.duckduckgo.com/ip3/auth.doodadlabs.org.ico",
     "slug": "authentication-service",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 264,
     "timeDay": 264,
     "timeWeek": 264,
     "timeMonth": 264,
     "timeYear": 264,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-04": 0
+    }
   },
   {
     "name": "Ingest API",
     "url": "https://ingest.doodadlabs.org/health",
     "icon": "https://icons.duckduckgo.com/ip3/ingest.doodadlabs.org.ico",
     "slug": "ingest-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 369,
     "timeDay": 369,
     "timeWeek": 369,
     "timeMonth": 369,
     "timeYear": 369,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-04": 0
+    }
   }
 ]
