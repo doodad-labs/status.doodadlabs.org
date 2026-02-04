@@ -26,19 +26,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.doodadlabs.org.ico",
     "slug": "auth",
     "status": "up",
-    "uptime": "1.51%",
-    "uptimeDay": "1.51%",
-    "uptimeWeek": "1.51%",
-    "uptimeMonth": "1.51%",
-    "uptimeYear": "1.51%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 215,
     "timeDay": 215,
     "timeWeek": 215,
     "timeMonth": 215,
     "timeYear": 215,
-    "dailyMinutesDown": {
-      "2026-02-04": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ingest",
