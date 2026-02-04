@@ -5,20 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/doodadlabs.org.ico",
     "slug": "main-site",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
-    "time": 520,
-    "timeDay": 375,
-    "timeWeek": 2473,
-    "timeMonth": 996,
-    "timeYear": 520,
-    "dailyMinutesDown": {
-      "2025-12-19": 19,
-      "2025-11-18": 85
-    }
+    "uptimeYear": "100.00%",
+    "time": 518,
+    "timeDay": 357,
+    "timeWeek": 2303,
+    "timeMonth": 977,
+    "timeYear": 518,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Authentication Service",
@@ -31,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 273,
-    "timeWeek": 273,
-    "timeMonth": 273,
-    "timeYear": 273,
+    "time": 278,
+    "timeDay": 278,
+    "timeWeek": 278,
+    "timeMonth": 278,
+    "timeYear": 278,
     "dailyMinutesDown": {}
   },
   {
@@ -49,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 230,
-    "timeWeek": 230,
-    "timeMonth": 230,
-    "timeYear": 230,
+    "time": 168,
+    "timeDay": 168,
+    "timeWeek": 168,
+    "timeMonth": 168,
+    "timeYear": 168,
     "dailyMinutesDown": {}
   }
 ]
