@@ -1,7 +1,7 @@
 url: https://ingest.doodadlabs.org/health
-status: up
-code: 200
-responseTime: 772
-lastUpdated: 2026-02-04T11:10:54.160Z
+status: down
+code: 401
+responseTime: 0
+lastUpdated: 2026-02-04T11:42:51.619Z
 startTime: 2026-02-04T10:46:17.101Z
 generator: Upptime <https://github.com/upptime/upptime>
