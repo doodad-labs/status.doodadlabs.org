@@ -5,6 +5,10 @@ repo: uptime-monitor
 sites:
   - name: Main Site
     url: https://doodadlabs.org
+  - name: Auth
+    url: https://auth.doodadlabs.org
+  - name: Ingest
+    url: https://ingest.doodadlabs.org/health
 assignees:
   - NotReeceHarris
 status-website:
