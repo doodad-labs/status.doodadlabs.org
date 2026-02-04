@@ -17,9 +17,6 @@ status-website:
   name: Doodadlabs
   introTitle: "**DoodadLabs Status**"
   introMessage: "Track the status of DoodadLab systems. While we operate on a global infrastructure designed for 99% uptime, occasional disruptions may occur."
-  navbar:
-    - title: Status
-      href: /
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
