@@ -1,7 +1,7 @@
 url: https://auth.doodadlabs.org/health
-status: down
-code: 404
-responseTime: 341
-lastUpdated: 2026-02-04T10:42:39.930Z
+status: up
+code: 200
+responseTime: 155
+lastUpdated: 2026-02-04T10:45:09.657Z
 startTime: 2026-02-04T10:40:19.099Z
 generator: Upptime <https://github.com/upptime/upptime>
