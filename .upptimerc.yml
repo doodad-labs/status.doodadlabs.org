@@ -6,7 +6,7 @@ sites:
   - name: Main Site
     url: https://doodadlabs.org
   - name: Auth
-    url: https://auth.doodadlabs.org
+    url: https://auth.doodadlabs.org/health
   - name: Ingest
     url: https://ingest.doodadlabs.org/health
 assignees:
