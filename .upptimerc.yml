@@ -5,10 +5,13 @@ repo: uptime-monitor
 sites:
   - name: Main Site
     url: https://doodadlabs.org
+    type: globalping
   - name: Authentication Service
     url: https://auth.doodadlabs.org/health
+    type: globalping
   - name: Ingest API
     url: https://ingest.doodadlabs.org/health
+    type: globalping
 assignees:
   - NotReeceHarris
 status-website:
