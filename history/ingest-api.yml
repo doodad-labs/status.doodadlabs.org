@@ -1,7 +1,7 @@
 url: https://ingest.doodadlabs.org/health
 status: down
-code: 403
+code: 401
 responseTime: 0
-lastUpdated: 2026-02-05T23:30:13.048Z
+lastUpdated: 2026-02-06T23:32:34.978Z
 startTime: 2026-02-04T10:46:17.101Z
 generator: Upptime <https://github.com/upptime/upptime>
